@@ -1,6 +1,6 @@
-# TrueWrite
+# TextNexa
 
-**A plagiarism and AI-content checker that shows its work, so teachers can make fair calls.**
+**The next layer of content analysis.**
 
 Built for the AS-01 problem statement (AI-Powered Plagiarism & AI-Generated Content Detector).
 
